@@ -1,0 +1,11 @@
+In project root directory run:
+
+```
+npm init
+
+npm install validator@10.8.0
+npm install chalk@2.4.1
+npm install nodemon@1.18.5 -g
+npm install yargs@12.0.2  
+
+```
